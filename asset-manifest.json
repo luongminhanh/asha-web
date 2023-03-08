@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/asha-web/static/css/main.ef8ff446.css",
+    "main.js": "/asha-web/static/js/main.9e456dca.js",
+    "static/js/787.15a7c25e.chunk.js": "/asha-web/static/js/787.15a7c25e.chunk.js",
+    "static/media/hero-img.png": "/asha-web/static/media/hero-img.593960b6732e1ce54f2b.png",
+    "static/media/logo.svg": "/asha-web/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/asha-web/index.html",
+    "main.ef8ff446.css.map": "/asha-web/static/css/main.ef8ff446.css.map",
+    "main.9e456dca.js.map": "/asha-web/static/js/main.9e456dca.js.map",
+    "787.15a7c25e.chunk.js.map": "/asha-web/static/js/787.15a7c25e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ef8ff446.css",
+    "static/js/main.9e456dca.js"
+  ]
+}
